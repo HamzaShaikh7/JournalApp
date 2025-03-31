@@ -1,3 +1,3 @@
 # JournalApp
 
-This is our Journal Application after new branch.
+This is our Journal Application after new branch. 3

@@ -1,0 +1,4 @@
+25-03-30 09:20:58.052 [main] INFO  n.e.journalApp.JournalApplication - Starting JournalApplication using Java 22.0.1 on DESKTOP-SAP6G6J with PID 7136 (C:\Users\a\Documents\SpringBoot\Projects\journalApp\target\classes started by a in C:\Users\a\Documents\SpringBoot\Projects\journalApp) 
+25-03-30 09:20:58.069 [main] INFO  n.e.journalApp.JournalApplication - The following 1 profile is active: "dev" 
+25-03-30 09:20:59.766 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode. 
+25-03-30 09:20:59.884 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 111 ms. Found 3 MongoDB repository interfaces. 

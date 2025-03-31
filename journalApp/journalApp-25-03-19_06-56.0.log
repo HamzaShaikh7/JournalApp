@@ -1,0 +1,2 @@
+25-03-19 06:56:58.435 [main] INFO  n.e.journalApp.JournalApplication - Starting JournalApplication using Java 22.0.1 on DESKTOP-SAP6G6J with PID 10480 (C:\Users\a\Documents\SpringBoot\Projects\journalApp\target\classes started by a in C:\Users\a\Documents\SpringBoot\Projects\journalApp) 
+25-03-19 06:56:58.449 [main] INFO  n.e.journalApp.JournalApplication - The following 1 profile is active: "dev" 

@@ -1,0 +1,38 @@
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: journaldb
+      auto-index-creation: true
+
+server:
+  port: 8080
+
+
+
+weather:
+  api:
+    key: b6cc20a9661d46bea0740761f80780bc
+
+
+
+#logging:
+#  level:
+#    net:
+#      engineeringdigest:
+#        journalApp: DEBUG
+#
+#
+#logging:
+#  level:
+#    root: ERROR
+#    root: OFF
+
+
+# 1.
+# 2.
+# 3.
+# 4.
+# 5.

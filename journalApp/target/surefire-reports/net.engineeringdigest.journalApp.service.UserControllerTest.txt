@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: net.engineeringdigest.journalApp.service.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 6, Skipped: 1, Time elapsed: 0.198 s <<< FAILURE! - in net.engineeringdigest.journalApp.service.UserControllerTest
+testExpectedNumber{int, int, int}[1]  Time elapsed: 0.045 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
+testExpectedNumber{int, int, int}[2]  Time elapsed: 0.014 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
+testExpectedNumber{int, int, int}[3]  Time elapsed: 0.006 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
+testExpectedNumber{int, int, int}[4]  Time elapsed: 0.011 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
+testExpectedNumber{int, int, int}[5]  Time elapsed: 0.007 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
+testExpectedNumber{int, int, int}[6]  Time elapsed: 0.006 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int b] in method [public void net.engineeringdigest.journalApp.service.UserControllerTest.testExpectedNumber(int,int,int)].
+
